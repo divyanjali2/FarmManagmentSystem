@@ -10,7 +10,7 @@ require_once("../dbConnection/connect.php");
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="1" sizes="76x76" href="../assets/img/1.png">
- <!-- <link rel="icon" type="image/png" href="../assets/img/1.png">-->
+ <link rel="icon" type="image/png" href="../assets/img/1.png">
   <title>
   SG FARMS
   </title>
